@@ -65,14 +65,18 @@ resource "aws_instance" "app_server" {
     Name = "MotorAppServerInstance"
   }
 }
+
 5)inciatization of tarraform
 ->terraform init
+
 6)Format and validate the configuration
 ->terraform fmt
 ->terraform validate
 
+
 7)Plan the infrastucture
-->terraform plan  
+->terraform plan 
+
 8)Create infrastructure
 ->terraform apply
 
