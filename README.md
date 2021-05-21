@@ -26,9 +26,9 @@ Configure the AWS CLI from your terminal. Follow the prompts to input your AWS A
 You need to provide your Access Key ID & Secret Access Key
 
 Access Key ID:
-AKIAXE67W4SU227PLVGT
+*******************
 Secret Access Key:
-hg4rEcj/v06e50ivQ1Zvcoh7nKlPhK6RNEpWCDco
+**********************
 
 
 2)Each Terraform configuration must be in its own working directory. Create a directory for your configuration.
